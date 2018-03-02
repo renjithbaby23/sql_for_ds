@@ -5,8 +5,11 @@
 prerequisites:
 - SQLite3 installed on Linux. [Refer this page.](https://www.digitalocean.com/community/tutorials/how-and-when-to-use-sqlite)
 
-After installation of SQLite3, you can either invoke itby typing $sqlite3$ from terminal (without quotes of course).
+After installing of SQLite3, you can invoke it by typing ```sqlite3``` from terminal (without quotes of course).
 This will take you to the sqlite3 shell. 
 The simple queries given in the shell scripts in this repository can be directly entered in to the sqlite shell.
+You can run the bash scripts (.sh files) provided directly from terminal.
 
-***Note**:If anybody got trapped in the sqlite shell, simply type $.quit$ to get out of it*
+If you are not comforabtle with shell, I recommend [this](https://ryanstutorials.net/bash-scripting-tutorial/) link.
+
+***Note**:If anybody got trapped in the sqlite shell, simply type ```.quit``` to get out of it*
