@@ -12,4 +12,4 @@ You can run the bash scripts (.sh files) provided directly from terminal.
 
 If you are not comforabtle with shell, I recommend [this](https://ryanstutorials.net/bash-scripting-tutorial/) link.
 
-***Note**:If anybody got trapped in the sqlite shell, simply type ```.quit``` to get out of it*
+***Note**:If anybody got trapped in the sqlite shell, simply type ```.quit``` to get out of it.*
